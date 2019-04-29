@@ -8,7 +8,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* .square {
+    height: 100px;
+    width: 100px;
+    background: yellow; */
+/* } */
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+/* .box {
+    border-style: solid;
+    border-width: thin;
+    background: yellow;
+    height: 100px;
+    width: 100px;
+} */
